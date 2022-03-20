@@ -1,1 +1,1 @@
-# ctypes_examples
+# ctypes examples using .so libraries with Python
